@@ -9,6 +9,7 @@
 #import <Cocoa/Cocoa.h>
 #import "ExampleSearcher.h"
 
+// add thie line by KS
 
 @interface DicManager : NSObject
 {
